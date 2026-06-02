@@ -1,6 +1,6 @@
 # 🎮 Simon Says — Arduino + Processing
 
-![logo](assets/logo.jpg)
+![logo](assets/Logo.jpg)
 
 A hardware-software Simon Says game built with Arduino and Processing. The game displays a growing LED sequence that the player must repeat using two physical buttons, with sound feedback via a buzzer.
 
